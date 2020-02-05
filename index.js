@@ -23,5 +23,4 @@ class Circle {
         this.radius = circumference / (Math.PI * 2)
     }
 
-    
 }
